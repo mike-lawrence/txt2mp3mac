@@ -1,4 +1,5 @@
-=Fine tuning output=
+#summary Tips for fine-tuning audio output
+=Tips for fine-tuning audio output=
 You may insert pauses in the reading by typing 
 {{{
 [[slnc X]] 
