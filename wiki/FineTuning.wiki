@@ -6,4 +6,5 @@ You may insert pauses in the reading by typing
 }}}
 in the text file where you would like X milliseconds of pause. A pause of 500ms is recommended between paragraphs, 2000ms between chapters and 1000ms between the chapter heading and the beginning of the chapter text. Other fine tuning controls are described at the following links:
  * http://tinyurl.com/4ways-to-improve-spoken-output
+
  * http://tinyurl.com/mac-os-x-embedded-speech
