@@ -1,4 +1,4 @@
-#summary Note on first run performance.
+#summary Note on first-run performance.
 
-=Note on first run performance=
+=Note on first-run performance=
 When you run txt2mp3mac for the first time, you may notice a significant (up to 10 seconds) delay after you've chosen the text file and reading speed. This is caused by the fact that the "BP Progress Bar" application is being run for the first time and OS X will eventually ask you to confirm that you want to run the application. I may be able to fix this down the road if I figure out how to properly bundle "BP Progress Bar" inside the txt2mp3mac app.
